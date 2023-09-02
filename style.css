@@ -338,6 +338,8 @@ body {
   object-position: center;
   object-fit: cover;
   image-rendering: auto;
+  border: 1px solid var(--primary-color);
+  border-radius: 50%;
 }
 
 .calendly-inline-widget {
